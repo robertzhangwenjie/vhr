@@ -31,7 +31,7 @@ vhrserver 的 web  模块 application.properties 中配置三样：
 
 启动 vhr-web 模块。如果只是看效果，可以不启动 mailserver 模块（如果要启动 mailserver，一定先配置 mailserver 的 redis，rabbitmq 以及 邮件发送配置信息，邮件发送配置，可以参考这篇文章：[Spring Boot 中邮件发送](https://mp.weixin.qq.com/s/FKyQNyPDQY8O25Hk2x7rKg)）。
 
-#### 1.5 二次开发
+#### 1.5 二次开发1
 
 这个需要部署前端。前端在运行时，需要准备一个 nodejs。
 
