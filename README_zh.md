@@ -22,6 +22,7 @@
 [依赖下载失败解决方案](https://mp.weixin.qq.com/s/6PPYwrNestz-gvmB4ZkAqQ)
 
 #### 1.4 项目配置
+#
 
 vhrserver 的 web  模块 application.properties 中配置三样：
 
